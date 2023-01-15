@@ -318,8 +318,8 @@ footer{
         gap: 0px;
     }
     .qf-img img{
-        width: 90%;
-        height: 90%;
+        width: 100%;
+        height: 100%;
     }
     .qf-info{
         margin-left: auto;
@@ -375,6 +375,9 @@ footer{
         flex-direction: column;
     }
     /* all-Sponsers done */
+    .subscribe-form{
+        margin: 0px auto;
+    }
     .subscribe-title{
         font-size: 35px;
         text-decoration-line: underline;
