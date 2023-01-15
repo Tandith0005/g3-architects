@@ -316,11 +316,11 @@ footer{
     .qf-img{
         grid-template-columns: repeat(1,1fr); 
         gap: 15px;
-        margin-left: 30px;
     }
     .qf-img img{
         width: 100%;
         height: 100%;
+        margin-left: 25px;
     }
     .qf-info{
         margin-left: auto;
