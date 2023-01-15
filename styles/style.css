@@ -315,7 +315,8 @@ footer{
     }
     .qf-img{
         grid-template-columns: repeat(1,1fr); 
-        gap: 0px;
+        gap: 15px;
+        margin-left: 30px;
     }
     .qf-img img{
         width: 100%;
@@ -376,7 +377,7 @@ footer{
     }
     /* all-Sponsers done */
     .subscribe-form{
-        margin: 0px auto;
+        margin-left: 30px;
     }
     .subscribe-title{
         font-size: 35px;
